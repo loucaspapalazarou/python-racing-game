@@ -27,7 +27,7 @@ python main.py
 
 ## Help
 
-For any help contant loukas.papalazaroy.cy@gmail.com
+For any help contant loukas.papalazarou.cy@gmail.com
 
 ## Authors
 
