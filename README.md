@@ -5,7 +5,7 @@ Loukas Papalazarou Racing Game
 ## Description
 
 This is just a simple racing game made in pygame. It consists of 2 laps around a track, stopwatch and scoreboard.
-It is made as part of the course 'Python Programming Language' at the University of Hradec Kralove
+Made as part of the course 'Python Programming Language' at the University of Hradec Kralove
 
 ## Getting Started
 
