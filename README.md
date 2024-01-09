@@ -31,4 +31,4 @@ For any help contant loukas.papalazarou.cy@gmail.com
 ## Authors
 
 Loucas Papalazarou 
-[https://github.com/loukisCY](https://github.com/loucaspapalazarou)
+[https://github.com/loucaspapalazarou](https://github.com/loucaspapalazarou)
