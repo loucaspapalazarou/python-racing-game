@@ -1,6 +1,6 @@
 # Project Title
 
-Loukas Papalazarou Racing Game
+Loucas Papalazarou Racing Game
 
 ## Description
 
@@ -31,14 +31,5 @@ For any help contant loukas.papalazarou.cy@gmail.com
 
 ## Authors
 
-Loukas Papalazarou 
-[https://github.com/loukisCY](https://github.com/loukisCY)
-
-## Version History
-
-* 0.1
-    * Initial Release
-
-## License
-
-No licence thus far
+Loucas Papalazarou 
+[https://github.com/loukisCY](https://github.com/loucaspapalazarou)
