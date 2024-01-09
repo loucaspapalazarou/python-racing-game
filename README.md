@@ -22,8 +22,7 @@ Made as part of the course 'Python Programming Language' at the University of Hr
 python main.py
 ```
 
-![image](https://user-images.githubusercontent.com/94012292/175536072-17a6338e-b981-4046-9aef-99a45b865ac7.png)
-
+<img src="https://user-images.githubusercontent.com/94012292/175536072-17a6338e-b981-4046-9aef-99a45b865ac7.png" alt="game" width="500"/>
 
 ## Help
 
